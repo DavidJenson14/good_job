@@ -145,7 +145,7 @@ GEM
       database_cleaner-core (~> 2.0.0)
     database_cleaner-core (2.0.1)
     diff-lcs (1.5.0)
-    dotenv (2.7.6)
+    dotenv (2.8.1)
     easy_translate (0.5.1)
       thread
       thread_safe
@@ -411,7 +411,7 @@ DEPENDENCIES
   benchmark-ips
   capybara
   database_cleaner
-  dotenv (~> 2.7.6)
+  dotenv (~> 2.8.1)
   easy_translate
   erb_lint
   foreman
